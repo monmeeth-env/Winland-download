@@ -1,0 +1,25 @@
+Winland — Software License
+
+Copyright (c) 2026 monmeeth-env. All rights reserved.
+
+This software, including its source code, icon and other assets ("Winland"),
+is proprietary and confidential.
+
+You may download, install and use Winland on computers you own or control,
+for personal or business use, as provided by its author.
+
+You may NOT, without the author's prior written permission:
+  - copy, modify or create derivative works of Winland or its source code;
+  - sell, rent, sublicense, redistribute or publish Winland or its source code;
+  - reverse engineer, decompile or disassemble Winland, except where
+    applicable law expressly permits this despite this restriction;
+  - remove or change any copyright or license notices.
+
+Third-party components included with Winland are licensed under their own
+terms; see THIRD-PARTY-NOTICES.md and the licenses folder.
+
+WINLAND IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
+INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A
+PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHOR BE LIABLE
+FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY ARISING FROM, OUT OF OR IN CONNECTION
+WITH WINLAND OR ITS USE.
